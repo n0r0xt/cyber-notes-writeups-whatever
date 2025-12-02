@@ -11,6 +11,6 @@ From the cleanspaghetti.txt file, I just opened it in vscode and copied any impo
 ```powershell
 a.ps1
 ```
-I found the first flag by watching the exection of the script and the output of the resultant binary that was decoded after the set-mppreference operations: flag{copy over when I get home}
+I found the first flag by watching the exection of the script and the output of the resultant binary that was decoded after the set-mppreference operations and others I assume were meant to disable or weaken defender: flag{copy over when I get home}
 
 For the second flag...
