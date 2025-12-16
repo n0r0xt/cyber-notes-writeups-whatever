@@ -1,7 +1,7 @@
 # Flare CTF #4 writeup
 ## this is my writeup for the fourth challenge of the Flare CTF
 
-To start, I visited the given link http://gd56337fcs4bkqtk2l3mgtnxl6hhdw7qjgxiaxx34ghbgtf3md3j3iyd.onion/ and navigated to the "negotiation portal" where I had to try to negotiate with an AI that would only give the decryption key if provided a "substantial offer"
+To start, I visited the given link hxxp://gd56337fcs4bkqtk2l3mgtnxl6hhdw7qjgxiaxx34ghbgtf3md3j3iyd[.]onion and navigated to the "negotiation portal" where I had to try to negotiate with an AI that would only give the decryption key if provided a "substantial offer"
 ```
 AI: Welcome to The Anonfiles chatroom, we are the only ones who hold your "decryption key". An automated operator will be with you soon to help you recover your files..
 ```
