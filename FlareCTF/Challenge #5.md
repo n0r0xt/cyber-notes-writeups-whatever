@@ -41,7 +41,7 @@ Checking logs.
 Notice that the order was made by "shadow_ops", not "buyer", which means this was an order made by a user that wasn't the demo user.  
 This means that all that's left to do was find an order id for "FlareCTF Flag LEAKED!" and look for anything telling in the order details.  
 
-To do this, I used caido web proxy with tor by setting localhost:9050 as an upstream SOCKS proxy and found the request to http://ly3ph3sccqwjh6invtiwo6vzk7nmxzcl6kuqxyzd5xulkshpvydn6yqd[.]onion/orders.php?id=n and used the automate tool to send requests for numberical values 0-300 for n and ordering them in order of longest to shortest response lenth.  
+To do this, I used caido web proxy with tor by setting localhost:9050 as an upstream SOCKS proxy and found the request to http://ly3ph3sccqwjh6invtiwo6vzk7nmxzcl6kuqxyzd5xulkshpvydn6yqd[.]onion/orders.php?id=n and used the automate tool to send requests for numberical values 0-300 for n and ordering them in order of longest to shortest response length.  
 By doing this, I was able to find the order details for an order for "FlareCTF Flag LEAKED!", of which the details were:  
 
 ```
